@@ -1,10 +1,10 @@
 - 👋 Hi, I’m @Conxede
 - 👀 I’m interested in you
-- 🌱 I’m currently learning html
-- 💞️ I’m looking to collaborate on you
+- 🌱 I’m currently learning HTML
+- 💞️ I’m looking to collaborate with you
 - 📫 How to reach me through you
 - 😄 Pronouns: ...
-- ⚡ Fun fact: i like feet
+- ⚡ Fun fact: I like feet
 
 <!---
 Conxede/Conxede is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
